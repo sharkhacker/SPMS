@@ -1,5 +1,5 @@
-# SPMS
-                                                               Abstract
+                              # SPMS  - Smart Parking management system
+                                                  Abstract
 
 According to the size of the vehicle, the Smart Parking Management System assigns the vehicle to the closest parking space to the entry after detecting the license plate number on the  given vehicle. There are several parking systems types that have been developed, including smart parking systems that use Wireless Sensor Networks (WSN), but each of these approaches has its own benefits.
 
